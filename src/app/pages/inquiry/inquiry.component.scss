@@ -1,16 +1,18 @@
-.container
-{
-    width:65%;
+.bg {
+    width: 100%;
+    height: 350px;
 }
-.bg-light{
+
+.bg-light {
     margin-top: 100px;
     margin-bottom: 100px;
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 50px;
 }
-.btn{
-    background-color:  #7CFC00;
+
+.btn {
+    background-color: #7CFC00;
     padding: 10px 30px 10px 30px;
-    margin-bottom: 50px; 
+    margin-bottom: 50px;
 }
