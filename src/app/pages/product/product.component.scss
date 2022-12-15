@@ -8,6 +8,7 @@ ul li {
     border: none;
     width: 350px;
     padding-left: 50px;
+    margin-bottom: 10px;
 }
 
 ul li:hover {
@@ -21,10 +22,6 @@ ul li:hover {
 
 }
 
-.p {
-    margin-top: 10px;
-}
-
 ul li.active {
     background-color: #79c51d;
     padding-left: 120px;
@@ -32,7 +29,6 @@ ul li.active {
     padding-left: 20px;
     text-align: center;
     width: 250px;
-
     color: white;
 
 }
@@ -72,4 +68,3 @@ ul li.active {
 //     border: 102;
 
 // }
-

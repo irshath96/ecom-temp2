@@ -1,10 +1,54 @@
-.active {
-    background-color:  #79c51d;
-    width: 100px;
+// .active {
+//     background-color:  #79c51d;
+//     width: 100px;
+//     height: 40px;
+//     border-radius: 15px;
+//     color: white;
+//     text-align: center;
+// }
+
+
+
+.logo {
+    width: 180px;
     height: 40px;
-    border-radius: 15px;
-    color: white;
-    text-align: center;
 }
 
+// .container-fluid {
+//     width: 95%;
+// }
 
+.nav-link {
+    // font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+     font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    
+
+}
+
+// .nav-link:hover {
+//     background-color: #7CFC00;
+
+//     // background-color: #4CBB17;
+//     border-radius: 5px;
+//     color: white;
+// }
+
+// .dropdown-item:hover {
+//     background-color: #7CFC00;
+
+//     // background-color: #4CBB17;
+//     border-radius: 5px;
+//     color: white;
+// }
+
+.active-link {
+    
+    background-color: #7CFC00;
+
+    // background-color: #4CBB17;
+    border-radius: 5px;
+    color: white;
+}
